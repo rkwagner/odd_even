@@ -1,5 +1,5 @@
 ## Synopsis
-
+ 
 The following program takes as input an integer and outputs
 whether it is odd or even.
 
